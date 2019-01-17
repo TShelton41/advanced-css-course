@@ -166,7 +166,7 @@ body {
 
 .btn-white::after {
     background-color: #fff;
-}
+}   
 
 .btn:hover::after {
     transform: scaleX(1.4) scaleY(1.6);
